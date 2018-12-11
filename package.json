@@ -1,8 +1,8 @@
 {
+  "author": "akshata waghe",
   "name": "expressproject",
   "version": "0.0.0",
   "private": true,
-  "author": "akshata waghe",
   "scripts": {
     "start": "node ./bin/www"
   },
