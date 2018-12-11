@@ -2,7 +2,7 @@
   "name": "expressproject",
   "version": "0.0.0",
   "private": true,
-  "author": "Sweetlimeco",
+  "author": "akshata waghe",
   "scripts": {
     "start": "node ./bin/www"
   },
